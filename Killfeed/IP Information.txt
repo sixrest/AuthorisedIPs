@@ -3,4 +3,5 @@
 5.9.153.206 -> [DE/EU] ZEDOCIDE | WINTER | PVP/SURVIVAL| 1PP
 104.254.229.143 -> Scarabyte Testing Server
 158.69.120.192 -> Internal Testing Server
-103.195.100.59 -> Awful Dayz After
+103.195.100.59 -> Awful DayZ After
+103.195.100.125 -> Awful DayZ After
