@@ -5,3 +5,4 @@
 158.69.120.192 -> Internal Testing Server
 103.195.100.59 -> Awful DayZ After
 103.195.100.125 -> Awful DayZ After
+51.68.204.225 -> Delirium Servers
